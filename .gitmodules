@@ -1,0 +1,9 @@
+[submodule "amplify-appsync-chat/--name"]
+	path = amplify-appsync-chat/--name
+	url = git@github.com:full-stack-serverless/chat-app.git
+[submodule "amplify-appsync-chat/--chat-client"]
+	path = amplify-appsync-chat/--chat-client
+	url = git@github.com:full-stack-serverless/chat-app.git
+[submodule "amplify-appsync-chat/chat-client"]
+	path = amplify-appsync-chat/chat-client
+	url = git@github.com:full-stack-serverless/chat-app.git
